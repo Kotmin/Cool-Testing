@@ -34,7 +34,7 @@ Clone the Repository:
 
 ```bash
 
-git clone https://github.com/your-username/ct-timing.git
+git clone https://github.com/Kotmin/Cool-Testing-Timing.git
 cd ct-timing
 ```
 Install Using Pip:
