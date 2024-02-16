@@ -1,3 +1,6 @@
+# local  tmp testing main file
+t_main.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
